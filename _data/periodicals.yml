@@ -1,0 +1,24 @@
+- name: "Colombia Jewish Association"
+  publication_date: "1934"
+  publication_type: "Magazine"
+  end_date: "1961"
+  city: "Bogota"
+
+- name: "Peru Zeitung"
+  publication_date: "1913"
+  publication_type: "Magazine"
+  end_date: "1942"
+  city: "Arequipa"
+
+- name: "Brasileiros"
+  publication_date: "1962"
+  publication_type: "Bulletin"
+  end_date: "Current"
+  city: "Sao Paulo"
+
+- name: "Argentina Times"
+  publication_date: "1921"
+  publication_type: "Newspaper"
+  end_date: "1982"
+  city: "Mendoza"
+
