@@ -33,9 +33,10 @@ plugins:
 header_pages:
   - about.md
   - posts.md
-  - databases.md
   - Bolivia.md
-  - Boliviatest.md
+  - Brasil.md
+  - Chile.md
+  - Colombia.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
