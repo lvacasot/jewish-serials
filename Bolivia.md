@@ -3,9 +3,9 @@ layout: page
 title: Bolivia
 permalink: /Bolivia/
 ---
-{% assign mydata=site.data.Bolivia-English%}
+{% assign mydata=site.data.Bolivia%}
 
-<table>
+<table id="boliviadata">
     <caption>Table caption</caption>
     <thead>
     {% for column in mydata[0] %}
@@ -23,7 +23,9 @@ permalink: /Bolivia/
     </tbody>
 </table>
 
-
+<script>
+    var table = new Tabulator("#boliviadata", {});
+</script>
 
 
 
