@@ -7,7 +7,7 @@ permalink: /Chile/
 {% assign mydata=site.data.Chile%}
 
 <table id="chiledata">
-    <caption>Chile</caption>
+    <caption>Chilean Serials</caption>
     <thead>
     {% for column in mydata[0] %}
         <th>{{ column[0] }}</th>
